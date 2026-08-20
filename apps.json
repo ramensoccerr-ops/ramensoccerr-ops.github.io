@@ -2,31 +2,31 @@
   {
     "id": "6778123409",
     "name": "リバーシ最弱王",
-    "description": "最弱のAIと対戦できるリバーシ。\n初心者でも絶対に勝てる！",
+    "description": "「負ける」ことを目指す逆転発想のリバーシ。\nコンピュータも必死に負けようとしてくる！",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/1b/66/6f1b6634-ed49-61e6-77cb-5bfaf16f9644/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
   },
   {
     "id": "6779927514",
     "name": "発売日アラート",
-    "description": "気になるゲームの発売日を\nプッシュ通知でお知らせ",
+    "description": "チケット・CD・ゲームなどの発売日を\n通知で確実にお知らせするリマインダー",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/9b/41/bd9b417d-1dcd-184c-4fae-08f1f5f80897/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
   },
   {
     "id": "6790908413",
     "name": "バンドマン育成",
-    "description": "路上演奏からスタジアムへ。\nバンドを育てる放置育成ゲーム",
+    "description": "深夜の路上から始まるバンドマンの物語。\nスタジアムを満員にする夢を叶えろ！",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/6f/47/db6f4768-a740-3fa3-25a5-12233d29a596/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
   },
   {
     "id": "6784299555",
     "name": "サッカー観戦記録",
-    "description": "観戦した試合をスタジアム別に記録。\n思い出をずっと残せる",
+    "description": "観戦試合を記録するだけで\n勝率・得失点を自動分析！",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/f8/ec/66f8eca5-0e82-fa00-bb2f-9e950238e665/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
   },
   {
     "id": "6796136416",
     "name": "コロコロシーソー",
-    "description": "ボールを転がしてシーソーを\nバランスよく保つ物理パズル",
+    "description": "傾けてボールを転がし\nシーソーを渡る爽快パズルゲーム",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/b7/eb/ebb7eb7d-2638-a48c-1b3e-01efe0a23388/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": "6776689550",
     "name": "同棲相性診断",
-    "description": "カップルの相性を\n4つのカテゴリで診断します",
+    "description": "同棲を考えるカップルへ。\n2人の相性を4カテゴリで本格診断",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/ce/68/7bce68e5-8a63-e10f-1ffa-b9d23ff0faf0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
   }
 ]
