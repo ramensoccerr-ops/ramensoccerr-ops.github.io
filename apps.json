@@ -46,5 +46,11 @@
     "name": "今日の漢字",
     "description": "漢字1文字と一言で、今日を記録。\n積み重ねると「今年の漢字」が見えてくる",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/b8/5d/d1b85d3f-bafe-4275-1e14-ebc5d37f7db8/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg"
+  },
+  {
+    "id": "6808656229",
+    "name": "パーク.log -TDL/TDS-",
+    "description": "並んだ時間・待ち時間をまとめて記録。\nTDL・TDSの思い出をあの日のままに",
+    "iconUrl": "https://ramensoccerr-ops.github.io/icons/park-log.png"
   }
 ]
