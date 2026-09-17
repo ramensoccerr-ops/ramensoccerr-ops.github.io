@@ -1,5 +1,23 @@
 [
   {
+    "id": "6805546527",
+    "name": "今日の漢字",
+    "description": "漢字1文字と一言で、今日を記録。\n積み重ねると「今年の漢字」が見えてくる",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/b8/5d/d1b85d3f-bafe-4275-1e14-ebc5d37f7db8/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg"
+  },
+  {
+    "id": "6790908413",
+    "name": "バンドマン育成",
+    "description": "深夜の路上から始まるバンドマンの物語。\nスタジアムを満員にする夢を叶えろ！",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/6f/47/db6f4768-a740-3fa3-25a5-12233d29a596/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+  },
+  {
+    "id": "6808656229",
+    "name": "パーク.log -TDL/TDS-",
+    "description": "並んだ時間・待ち時間をまとめて記録。\nTDL・TDSの思い出をあの日のままに",
+    "iconUrl": "https://ramensoccerr-ops.github.io/icons/park-log.png"
+  },
+  {
     "id": "6778123409",
     "name": "リバーシ最弱王",
     "description": "「負ける」ことを目指す逆転発想のリバーシ。\nコンピュータも必死に負けようとしてくる！",
@@ -10,12 +28,6 @@
     "name": "発売日アラート",
     "description": "チケット・CD・ゲームなどの発売日を\n通知で確実にお知らせするリマインダー",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/9b/41/bd9b417d-1dcd-184c-4fae-08f1f5f80897/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
-  },
-  {
-    "id": "6790908413",
-    "name": "バンドマン育成",
-    "description": "深夜の路上から始まるバンドマンの物語。\nスタジアムを満員にする夢を叶えろ！",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/6f/47/db6f4768-a740-3fa3-25a5-12233d29a596/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
   },
   {
     "id": "6784299555",
@@ -40,17 +52,5 @@
     "name": "同棲相性診断",
     "description": "同棲を考えるカップルへ。\n2人の相性を4カテゴリで本格診断",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/ce/68/7bce68e5-8a63-e10f-1ffa-b9d23ff0faf0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
-  },
-  {
-    "id": "6805546527",
-    "name": "今日の漢字",
-    "description": "漢字1文字と一言で、今日を記録。\n積み重ねると「今年の漢字」が見えてくる",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/b8/5d/d1b85d3f-bafe-4275-1e14-ebc5d37f7db8/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg"
-  },
-  {
-    "id": "6808656229",
-    "name": "パーク.log -TDL/TDS-",
-    "description": "並んだ時間・待ち時間をまとめて記録。\nTDL・TDSの思い出をあの日のままに",
-    "iconUrl": "https://ramensoccerr-ops.github.io/icons/park-log.png"
   }
 ]
