@@ -1,5 +1,11 @@
 [
   {
+    "id": "6820389060",
+    "name": "脱出ゲーム おてんき島",
+    "description": "天候を操作して謎を解き明かせ！",
+    "iconUrl": "https://ramensoccerr-ops.github.io/icons/otenki-island.jpg"
+  },
+  {
     "id": "6805546527",
     "name": "今日の漢字",
     "description": "漢字1文字と一言で、今日を記録。\n積み重ねると「今年の漢字」が見えてくる",
