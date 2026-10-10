@@ -1,5 +1,11 @@
 [
   {
+    "id": "6821407859",
+    "name": "グリログ",
+    "description": "テーマパークで会えたキャラとのグリーティングを記録。\n会えたキャラが図鑑に集まる！",
+    "iconUrl": "https://ramensoccerr-ops.github.io/icons/greelog.png"
+  },
+  {
     "id": "6820389060",
     "name": "脱出ゲーム おてんき島",
     "description": "天候を操作して謎を解き明かせ！",
